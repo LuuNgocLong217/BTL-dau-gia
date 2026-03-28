@@ -1,5 +1,6 @@
-import org.w3c.dom.ls.LSOutput;
 
-import javax.management.MBeanOperationInfo;
-
-LSOutput khoa MBeanOperationInfo
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
+}
